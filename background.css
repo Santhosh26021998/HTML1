@@ -1,0 +1,15 @@
+h2{
+    background-color: aqua;
+}
+h3{
+    background-color: blue;
+}
+p{
+    background-color: blueviolet;
+}
+body{
+    background-image:url("images.jpg") ;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:35px 100px;
+}

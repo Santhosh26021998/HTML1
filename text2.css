@@ -1,0 +1,30 @@
+p2{
+    color:magenta;
+    text-align: center;
+    text-decoration: line-through;
+    text-decoration-color: rgb(0, 255, 140);
+    text-decoration-style: dotted;
+    text-transform: capitalize;
+    line-height: 50px;
+}
+p1{
+    color:gold;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    text-decoration-style: wavy;
+    text-indent: 12px;
+    text-transform: uppercase;
+    text-shadow: 12px 12px rgb(255, 0, 0);
+    word-spacing: 12px;
+}
+p2{
+    color:green;
+    text-align: justify;
+    text-decoration: overline;
+    text-decoration-color: rgb(133, 30, 95);
+    text-decoration-style: double;
+    text-transform: lowercase;
+    text-shadow: 12px 12px 13px;
+    letter-spacing: 12px;
+}

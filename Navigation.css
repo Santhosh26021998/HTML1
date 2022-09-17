@@ -1,0 +1,20 @@
+div{
+    background-color: rgb(245, 245, 248);
+    padding: 30px;
+}
+a:link{
+    color: blue;
+
+}
+a:active{
+    color:rgb(5, 6, 6);
+    
+}
+a:visited{
+    color:rgb(210, 241, 8);
+    
+}
+a:hover{
+    color:rgb(234, 35, 181);
+    
+}

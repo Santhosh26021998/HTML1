@@ -1,0 +1,13 @@
+ol{
+    list-style-type:upper-roman;
+    list-style-position: inside;
+    list-style-image: url("download\ \(1\).png");
+
+}
+ul{
+    list-style-type:georgian;
+}
+div{
+    background-color: blue;
+    color: red;
+}
